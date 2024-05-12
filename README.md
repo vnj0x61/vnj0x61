@@ -2,7 +2,7 @@
   
 I am convinced that if we can share all the knowledge we have, we can live in a better world. 
 
-- 🔭 Currently researching every day about different stuff about infosec where i actually lost myself often in the rabbit hole.
+- 🔭 Currently researching every day about different stuff about infosec.
 - 🌱 I'm a big fan of neurofeedback and hope it becomes more popular and cheaper for everyone.
   
                                          
