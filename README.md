@@ -1,12 +1,7 @@
 ### Hi there 	⊂(◉‿◉)つ
-  
-I am convinced that if we can share all the knowledge we have, we can live in a better world. 
 
-- 🔭 Currently researching every day about different stuff about infosec.
-- 🌱 I'm a big fan of neurofeedback and hope it becomes more popular and cheaper for everyone.
-  
+- 🌱 I’m currently learning for my OSCP
                                          
-
 [![vnj0x61.github.io](https://github.com/vnj0x61/vnj0x61.github.io/actions/workflows/pelican.yaml/badge.svg)](https://github.com/vnj0x61/vnj0x61.github.io/actions/workflows/pelican.yaml)
 
 <!--
