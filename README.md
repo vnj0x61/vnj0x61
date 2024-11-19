@@ -1,6 +1,6 @@
-### Hi there
+### 
 
-- I’m currently learning for my OSCP
+- Finally got my OSCP+
                                          
 [![vnj0x61.github.io](https://github.com/vnj0x61/vnj0x61.github.io/actions/workflows/pelican.yaml/badge.svg)](https://github.com/vnj0x61/vnj0x61.github.io/actions/workflows/pelican.yaml)
 
